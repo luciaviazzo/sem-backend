@@ -14,7 +14,7 @@ Sistema backend para la gestión y control de estacionamientos en una localidad.
 - Generación de infracciones por parte de inspectores
 - Notificaciones al usuario ante eventos del sistema
 - Validación de estacionamiento vigente por patente
-- Manejo de excepciones personalizadas (`SaldoInsuficienteException`, `EstacionamientoVigenteException`, `NoExisteEstacionamientoVigenteException`)
+- Manejo de excepciones personalizadas 
 
 ## Patrones de diseño aplicados
 
