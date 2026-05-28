@@ -22,8 +22,10 @@ Sistema backend para la gestión y control de estacionamientos en una localidad.
 - **Strategy**: el modo de operación del usuario (Manual / Automático) es intercambiable en tiempo de ejecución.
 - **State**: el estado de detección de movimiento del usuario transiciona entre Apagado, Caminando y Manejando.
 
-## Tecnologías
+## Tecnologías & Concepts
 
 - Java
-- JUnit
+- POO
 - Mockito
+- Design Paterns
+- TDD
